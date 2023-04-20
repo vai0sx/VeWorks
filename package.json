@@ -1,0 +1,23 @@
+{
+  "name": "veworks",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Decentralized Works Platform VeChain",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node deploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Work"
+  ],
+  "author": "VeWorks",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "@vechain/connex": "^2.0.14",
+    "@vechain/connex-framework": "^2.0.12",
+    "@vechain/connex.driver-nodejs": "^1.2.0-beta6",
+    "fs": "0.0.1-security"
+  }
+}
