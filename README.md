@@ -31,11 +31,11 @@ After deploying the smart contract, you can interact with it using the provided 
 
 # Dependencies
 
-@openzeppelin/contracts: ^4.8.3
-@vechain/connex: ^2.0.14
-@vechain/connex-framework: ^2.0.12
-@vechain/connex.driver-nodejs: ^1.2.0-beta6
-fs: 0.0.1-security
++ @openzeppelin/contracts: ^4.8.3
++ @vechain/connex: ^2.0.14
++ @vechain/connex-framework: ^2.0.12
++ @vechain/connex.driver-nodejs: ^1.2.0-beta6
++ fs: 0.0.1-security
 
 # Contributing
 
